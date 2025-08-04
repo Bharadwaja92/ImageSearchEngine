@@ -1,0 +1,13 @@
+nltk
+Pillow
+pydantic
+PyYAML
+fastapi
+qdrant_client
+Requests
+streamlit
+transformers
+opencv-python
+tqdm
+uvicorn
+

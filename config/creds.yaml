@@ -1,0 +1,6 @@
+# QDRANT_URL: http://qdrant-db:6333
+# LLM_URL: http://ollama:11434/api/generate
+QDRANT_URL: http://localhost:6333
+LLM_URL: http://localhost:11434/api/generate
+QDRANT_COLLECTION_NAME: images
+PROMPT_TEMPLATE_PATH: config/ImageMatchPrompt.txt
